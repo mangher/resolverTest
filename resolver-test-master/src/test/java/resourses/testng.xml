@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RESOLVER QE INTERVIEW Test Automation Test Suite">
+    <test name="RESOLVER">
+        <classes>
+            <class name="resolver.tests.LoginTests"></class>
+            <class name="resolver.tests.ListItemTests"></class>
+            <class name="resolver.tests.DropDownTests"></class>
+            <class name="resolver.tests.ButtonTests"></class>
+            <class name="resolver.tests.TableTests"></class>
+        </classes>
+    </test>
+</suite>
